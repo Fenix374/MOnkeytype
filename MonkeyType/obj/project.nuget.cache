@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dlFXCJyFhae7rhQyD1eCaYt0EQVpmFu7koMMnH0xeNlXlJM4qAEnzB3qqbcg5AJEO4tGvrwAVQGNilhIAsJyZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\semen\\source\\repos\\MonkeyType\\MonkeyType\\MonkeyType.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semen\\.nuget\\packages\\harvzor.optional\\0.0.5\\harvzor.optional.0.0.5.nupkg.sha512",
+    "C:\\Users\\semen\\.nuget\\packages\\harvzor.optional.newtonsoftjson\\0.0.5\\harvzor.optional.newtonsoftjson.0.0.5.nupkg.sha512",
+    "C:\\Users\\semen\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\semen\\.nuget\\packages\\penguinhelper.newtonsoft\\1.0.1\\penguinhelper.newtonsoft.1.0.1.nupkg.sha512",
+    "C:\\Users\\semen\\.nuget\\packages\\xamarin.forms\\5.0.0.2622\\xamarin.forms.5.0.0.2622.nupkg.sha512",
+    "C:\\Users\\semen\\.nuget\\packages\\xamarin.forms.maps\\5.0.0.2622\\xamarin.forms.maps.5.0.0.2622.nupkg.sha512"
+  ],
+  "logs": []
+}
